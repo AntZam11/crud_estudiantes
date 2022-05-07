@@ -1,0 +1,12 @@
+CREATE TABLE `estudiantes` (
+  `idestudiante` bigint NOT NULL AUTO_INCREMENT,
+  `carnet` char(40) DEFAULT NULL,
+  `nombres` varchar(60) DEFAULT NULL,
+  `apellidos` varchar(60) DEFAULT NULL,
+  `direccion` varchar(60) DEFAULT NULL,
+  `telefono` int DEFAULT NULL,
+  `email` varchar(70) DEFAULT NULL,
+  `fecha_nacimiento` date DEFAULT NULL,
+  `genero` bit(1) DEFAULT NULL,
+  PRIMARY KEY (`idestudiante`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci

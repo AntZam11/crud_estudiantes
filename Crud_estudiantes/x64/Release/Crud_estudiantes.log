@@ -1,0 +1,7 @@
+﻿  Crud_estudiantes.cpp
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\ANTONIL\Documents\Crud_estudiantes\Crud_estudiantes\Estudiantes.h(249): warning C4717: 'Estudiantes2::menu': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Crud_estudiantes.vcxproj -> C:\Users\ANTONIL\Documents\Crud_estudiantes\x64\Release\Crud_estudiantes.exe
